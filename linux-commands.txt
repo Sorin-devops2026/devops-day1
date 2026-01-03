@@ -1,0 +1,1 @@
+Linux day 1: pwd ls mkdir cd echo cat cat linux-commands.txt ls -la
