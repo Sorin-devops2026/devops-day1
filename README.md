@@ -3,5 +3,5 @@
 
 ## Progress Day 1
 - [x] GitHub account live
-- [ ] FreeCodeCamp HTML lesson 1
-- [ ] Linux 7 commands mastered
+- [x] FreeCodeCamp HTML lesson 1
+- [x] Linux 7 commands mastered
