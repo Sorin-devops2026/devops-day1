@@ -34,5 +34,13 @@
 **Linux:** ls, cd, pwd, mkdir, rm, cp, mv, nano, cat
 **GitHub:** create repo, upload files, commit
 
-## ROADMAP:
+## 🌟 DAY 3 - HTML/CSS + LINUX AVANSAT ✅
+
+**PROGRES FREECCODECAMP:**
+- 85/115 lecții Responsive Web Design (74%)
+- HTML Semantic: div class/id, card-container, btn-container  
+- Butoane: View Cart + Checkout complete
+
+**LINUX: 27 COMENZI MASTRERATE**
+
 
