@@ -42,5 +42,11 @@
 - Butoane: View Cart + Checkout complete
 
 **LINUX: 27 COMENZI MASTRERATE**
+## 🌟 DAY 4 COMPLETE ✅
+**HTML/CSS:** 101/292 (34%) - figure, figcaption, a href/target="_blank" 
+**Linux:** 37 comenzi (pipes: ls|grep, history|tail, find|wc)
+**Fișiere:** day4-html101.txt
+**Progres:** 85→101 azi (+16 lecții) = RITM ELITĂ!
+
 
 
