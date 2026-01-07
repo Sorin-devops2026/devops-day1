@@ -47,6 +47,14 @@
 **Linux:** 37 comenzi (pipes: ls|grep, history|tail, find|wc)
 **Fișiere:** day4-html101.txt
 **Progres:** 85→101 azi (+16 lecții) = RITM ELITĂ!
+## 🌟 DAY 5 COMPLETE ✅
+**HTML/CSS:** 121/292 (41%) - video/audio players + media elements
+**Linux:** 47 comenzi total (pipes mastery: history|tail|wc, ps|grep|wc)
+**Skills:** HTML5 Media + Advanced Linux analysis
+**Progres:** 41% Responsive Web Design = INTERMEDIU LEVEL!
+
+📈 **PROGRES TOTAL 5 ZILE:**
+Day 1: 17 Linux | Day 2: HTML 60 | Day 3: 85/292 | Day 4: 101/292 | Day 5: 121/292
 
 
 
