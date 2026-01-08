@@ -55,6 +55,13 @@
 
 📈 **PROGRES TOTAL 5 ZILE:**
 Day 1: 17 Linux | Day 2: HTML 60 | Day 3: 85/292 | Day 4: 101/292 | Day 5: 121/292
+DAY 6 STATUS ✅
+text
+📊 PROGRES Day 6 FINAL
+✅ FreeCodeCamp HTML/CSS: 141/292 (48%)
+✅ Git Bash: 69 comenzi totale 
+✅ day6-html142/ folder complet
+
 
 
 
