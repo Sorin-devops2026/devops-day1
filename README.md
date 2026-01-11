@@ -70,6 +70,10 @@ text
 
 ## 🖥️ SKILLS DOBÂNDITE
 
+# Day 8 - FreeCodeCamp Event Hub 🚀
+
+## 📊 PROGRES FREECCODECAMP
+**Responsive Web Design: 180/292 (62%) ✅**
 
 
 
