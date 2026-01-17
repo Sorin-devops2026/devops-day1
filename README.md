@@ -132,5 +132,11 @@ text
 
 ## 💼 CV READY pentru joburi ENGL (FĂRĂ germană):
 
+# 🚀 Day 13 FINAL - RWD + DevOps START
+
+**Ionuț → Junior DevOps 50k€/an**  
+**Jan 17, 2026 | Streak: 13/13 zile**
+
+## 📊 Progres RWD Frontend
 
 
