@@ -140,3 +140,10 @@ text
 ## 📊 Progres RWD Frontend
 
 
+# 🚀 DevOps Journey 2026 - Sorin
+
+**Sorin → Junior DevOps 50k€/an**  
+**Start: Ianuarie 2026** | **Target: August 2026**
+
+## 📊 Progres Actual (Day 17 - 21 Ianuarie)
+
