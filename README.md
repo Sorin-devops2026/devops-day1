@@ -130,20 +130,25 @@ text
 - **✅ CSS Grid Magazine Layout** - Day 9 mastery
 - **🔥 Day 12 Final Projects** - Survey/Tribute/Portfolio
 
-## 💼 CV READY pentru joburi ENGL (FĂRĂ germană):
-
-# 🚀 Day 13 FINAL - RWD + DevOps START
-
-**Ionuț → Junior DevOps 50k€/an**  
-**Jan 17, 2026 | Streak: 13/13 zile**
-
-## 📊 Progres RWD Frontend
-
-
 # 🚀 DevOps Journey 2026 - Sorin
 
-**Sorin → Junior DevOps 50k€/an**  
-**Start: Ianuarie 2026** | **Target: August 2026**
+**Day 15 COMPLETE** - docker build sorin-nginx:day15
 
-## 📊 Progres Actual (Day 17 - 21 Ianuarie)
+## Progres 18 zile:
+✅ RWD 283/292h (97%)
+✅ Docker hello-world  
+✅ NGINX localhost:8080
+✅ docker build custom NGINX ✓
+
+## Day 15 Files:
+- Dockerfile
+- index.html  
+- docker-day15.txt
+
+## Următor Day 16:
+docker run -d -p 3000:80 sorin-nginx:day15
+
+WhatsApp: 015778000385
+
+
 
