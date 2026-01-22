@@ -1,0 +1,4 @@
+🚀 Day 15: Custom Docker Build - Thu Jan 22 02:13:08 GTB 2026
+✅ docker build -t sorin-nginx:day15 .
+✅ localhost:3000 → Custom index.html LIVE
+✅ FROM nginx:latest + COPY index.html
