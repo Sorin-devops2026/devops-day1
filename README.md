@@ -149,6 +149,12 @@ text
 docker run -d -p 3000:80 sorin-nginx:day15
 
 WhatsApp: 015778000385
+# DevOps Day 16 - Sorin
+
+**HTML 293/293 + Calculatoare completate freeCodeCamp**  
+Progres 98% Responsive Web Design → Certificare Day 19
+
+## 🚀 LIVE Demo
 
 
 
