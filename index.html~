@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sorin DevOps - Flexbox Demo Day 18</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      max-width: 1200px;
+      padding: 20px;
+      background: rgba(255,255,255,0.1);
+      border-radius: 20px;
+      backdrop-filter: blur(10px);
+    }
+    .card {
+      flex: 1 1 300px;
+      background: rgba(255,255,255,0.2);
+      padding: 30px;
+      border-radius: 15px;
+      text-align: center;
+      color: white;
+      transform: translateY(0);
+      transition: transform 0.3s ease;
+    }
+    .card:hover {
+      transform: translateY(-10px);
+    }
+    h1 {
+      font-size: 3em;
+      background: linear-gradient(45deg, #fff, #f0f0f0);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🚀 Sorin DevOps</h1>
+  <div class="container">
+    <div class="card">
+      <h2>✅ Day 18 COMPLETE</h2>
+      <p>Flexbox 45 lecții (+20 azi)</p>
+    </div>
+    <div class="card">
+      <h2>🐳 Docker LIVE</h2>
+      <p>localhost:3000 - nginx:alpine</p>
+    </div>
+    <div class="card">
+      <h2>💰 Freelance Gata</h2>
+      <p>50€ Landing Pages Biblis</p>
+      <p><strong>WhatsApp: 015778000385</strong></p>
+    </div>
+  </div>
+</body>
+</html>
+
