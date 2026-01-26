@@ -1,0 +1,5 @@
+DAY 19 - 26 Ian 2026
+✅ 50 CSS lessons freeCodeCamp
+✅ Git commit + Docker nginx:8080
+✅ Responsive landing page live
+Maine: Survey Form project
