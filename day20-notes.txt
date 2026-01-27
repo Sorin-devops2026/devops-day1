@@ -3,3 +3,5 @@ DAY 20 - 27 Ian 2026 (21:41 EET) ✅
 ✅ Git main branch + merge perfect
 ✅ Survey Form [aici scrii status]
 Maine Day 21: Survey Form 100% + Tribute Page
+✅ Docker Day 20: localhost:8080 LIVE (67 CSS lessons)
+✅ Container: day20-css67 running
